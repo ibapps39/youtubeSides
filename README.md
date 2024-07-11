@@ -2,12 +2,24 @@
 An Open Source list - status and discernment of various iOS, YouTube iPA Tweaks
 ## Original Reddit Post:
 [Clearing Up YouTube Options?](https://www.reddit.com/r/sideloaded/comments/1dy9v4s/clearing_up_youtube_options/) - https://www.reddit.com/r/sideloaded/comments/1dy9v4s/clearing_up_youtube_options/
+## What this is/is not
+This is just a collection and suggestion of the many available YouTube Tweaks and iPAs. 
+This <b>is not</b>:
+- A support page or official communications for any of these.
+- Support for sideloading in general nor the installtion of these applications on iOS.
+- Offically affliated with any of these projects.
+- A place to get a link or file directly to a finished build/release/etc. Only links to the projects themselves (GH Repos, as offical as a website that can be found, etc).
+
+Please Note: 
+- Use of Adblockers is currently and has been against YouTube's TOS. You use any of these at your own risk/discretion.
+- AppDB has multiple submissions from multiple people, so it's best if possible to build and sign apps yourself as directly from either the 🏆🔗 (Reccomended link) or official repo.
 
 ## Legend
 - ⛔ "Dead"
 - ✅ "Active"
 - 🔱 "Fork/Forked"
 - 🔗 "Link"
+- 👾 "GH/GitHub Repo Link"
 - 🧑‍💻 "Developer/author"
 - 🗓️ "Latest Release"
 - 🛠️ "Release Version"
@@ -18,17 +30,30 @@ An Open Source list - status and discernment of various iOS, YouTube iPA Tweaks
 - 📱 "Supported iOS version"
 - 📚 "Addtional Resources"
 - ~~Strikethrough~~ "Error, doesn't exist, etc"
-🚧 - Features (PiP/YouPip, AdBlock, etc. Maybe)
-      - Basic Explanation of what features are.
- 
-## Top Reccomendations
-- uYouEnhanced 🔱🏆⚠️
-- YTLitePlus/+ 🔱🏆
 
+🚧 Features (PiP/YouPip, AdBlock, etc. Maybe)
+* Basic Explanation of what features are.
+ 
+## Top Reccomendations as of (see README.md commit date)
+### 🔱🏆⚠️ uYouEnhanced:
+- 🏆🔗 https://uyouplus.com/uyou-enhanced/ (Also on Signulous, appdb, etc)
+- 🔗 AppDB: https://appdb.to/?name=uyouenhanced
+- 👾 https://github.com/arichornlover/uYouEnhanced (down), alt 🔱 - https://github.com/dora727/uYouEnhanced
+- 🗓️ June 14, 2024
+- 🛠️ 19.21.2, 🔱 uYou v3.0.4
+- 📺 "YouTube v19.08.2." - https://uyouplus.com/changelog/
+- 📱 It works on my iOS 18 Dev. Beta. But uyouplus says: "uYouPlus v17.24.4-2.1 and higher supports iOS 16!" - https://uyouplus.com/faq/
+- 🧑‍💻arichorn, MiRO92, qnblackcat, see https://uyouplus.com/about/
+### 🔱🏆✅ YTLitePlus/+ 
+- 🏆🔗 ytliteplus.github.io/
+- 👾 https://github.com/YTLitePlus/YTLitePlus
+- 🗓️ 2024-06-10 (per 👾)
+- 🛠️ 4.0.1 (per 👾)
+- 📺 19.23.3 (per 👾)
+- 📱 iOS/iPadOS 15.0 or later (per 👾)
 ## Considerations
 - uYou ✅
 - uYouPlus/uYou+ 🔱✅
-~~- uYou++~~🔱
 - uYouEnhanced 🔱🏆⚠️
 - YTLite
 - YTLitePlus/+ 🔱🏆
@@ -38,3 +63,5 @@ An Open Source list - status and discernment of various iOS, YouTube iPA Tweaks
 - RebornAgain+⛔🔱
 - YouTube++⛔⚠️
 - YTKillerPlus✅
+
+## 🚧 Considerations Explained/Expanded
