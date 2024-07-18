@@ -44,6 +44,7 @@ Please Note:
 - 📺 "YouTube v19.08.2." - https://uyouplus.com/changelog/
 - 📱 It works on my iOS 18 Dev. Beta. But uyouplus says: "uYouPlus v17.24.4-2.1 and higher supports iOS 16!" - https://uyouplus.com/faq/
 - 🧑‍💻arichorn, MiRO92, qnblackcat, see https://uyouplus.com/about/
+- ⚠️ Per "bhackel": <i> I think PoomSmart mentioned on twitter that the uYouPlus.com link is not official. I would suggest either adding a note that this link is not trustworthy, or removing it</i>. Any additional info regarding this with a linked source, feel free to open an issue!
 ### 🔱🏆✅ YTLitePlus/+ 
 - 🏆🔗 ytliteplus.github.io/
 - 👾 https://github.com/YTLitePlus/YTLitePlus
