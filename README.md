@@ -66,3 +66,11 @@ Please Note:
 - YTKillerPlus✅
 
 ## 🚧 Considerations Explained/Expanded
+Note: Regarding uYouPlus & uYouEnhanced from uyouplus.com -
+The page includes both a uYouPlus and uYouEnhanced links but share the same About page (it looked like they were different/seperate sites but they aren't).
+## Other
+From X/Twitter: MiRO
+```
+@MiRO92 May 27
+I've just released #uYou v3.0.4 to fix the crash issue when playing YouTube videos on v19.20.2
+```
