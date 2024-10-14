@@ -48,15 +48,15 @@ Please Note:
 - 📱 iOS 18.1+ (for me at least)
 - Really, really nice. Cleaner seetings compared to others on here IMO. Newer YT version. My #1 pick atm.
 - OS-Libs: 
-    YouTubeHeaders,
-    YouTube-X, 
-    YTClassicVideoQuality,
-    YTShortsProgress, 
-    YTAutoFullscreen, 
-    Skip Content Warning, 
-    YouAreThere, 
-    YouTube Native Share, 
-    MobileFFmpeg
+    * YouTubeHeaders,
+    * YouTube-X, 
+    * YTClassicVideoQuality,
+    * YTShortsProgress, 
+    * YTAutoFullscreen, 
+    * Skip Content Warning, 
+    * YouAreThere, 
+    * YouTube Native Share, 
+    * MobileFFmpeg
 ### 🔱🏆✅ YTLitePlus/+ **YTLite with more features!**
 - 🏆🔗 ytliteplus.github.io (Direct .ipa)
 - 👾 https://github.com/YTLitePlus/YTLitePlus
