@@ -29,12 +29,32 @@ Please Note:
 - 🚧 "(This repo) Working on it!"
 - 📱 "Supported iOS version"
 - 📚 "Addtional Resources"
+- 🖋️ "Signuluous"
+- 🧃 "AppDB" (idk there's only so many emojis)
 - ~~Strikethrough~~ "Error, doesn't exist, etc"
 
 🚧 Features (PiP/YouPip, AdBlock, etc. Maybe)
 * Basic Explanation of what features are.
  
 ## Top Reccomendations as of (see README.md commit date)
+###🏆✅ **YouTube Plus for YouTube** dayanch96
+- 🏆🔗 https://github.com/dayanch96/YTLite
+- 🖋️🔗 app?id=1064 
+- 👾 https://github.com/dayanch96
+- 🧑‍💻 Dayanch96 (𝕏)
+- 🗓️ 2024-10-10
+- 🛠️ 5.0.2
+- 📺 19.40.4
+- 📱 iOS 18.1+ (for me at least)
+- Really, really nice. Cleaner seetings compared to others on here IMO. Newer YT version. My #1 pick atm.
+### 🔱🏆✅ YTLitePlus/+ **YTLite with more features!**
+- 🏆🔗 ytliteplus.github.io (Direct .ipa)
+- 👾 https://github.com/YTLitePlus/YTLitePlus
+- 🔱 *This app was forked from @arichorn, who himself forked it from @qnblackcat, so thanks to them.*
+- 🗓️ 2024-09-02 (per 👾)
+- 🛠️ 5.0.1 (per 👾)
+- 📺 19.34.2 (per 👾)
+- 📱 iOS/iPadOS 15.0 or later (per 👾)
 ### 🔱🏆⚠️ uYouEnhanced:
 - 🏆🔗 https://uyouplus.com/uyou-enhanced/ (Also on Signulous, appdb, etc)
 - 🔗 AppDB: https://appdb.to/?name=uyouenhanced
@@ -45,13 +65,6 @@ Please Note:
 - 📱 It works on my iOS 18 Dev. Beta. But uyouplus says: "uYouPlus v17.24.4-2.1 and higher supports iOS 16!" - https://uyouplus.com/faq/
 - 🧑‍💻arichorn, MiRO92, qnblackcat, see https://uyouplus.com/about/
 - ⚠️ Per "bhackel": <i> I think PoomSmart mentioned on twitter that the uYouPlus.com link is not official. I would suggest either adding a note that this link is not trustworthy, or removing it</i>. Any additional info regarding this with a linked source, feel free to open an issue!
-### 🔱🏆✅ YTLitePlus/+ 
-- 🏆🔗 ytliteplus.github.io/
-- 👾 https://github.com/YTLitePlus/YTLitePlus
-- 🗓️ 2024-06-10 (per 👾)
-- 🛠️ 4.0.1 (per 👾)
-- 📺 19.23.3 (per 👾)
-- 📱 iOS/iPadOS 15.0 or later (per 👾)
 ## Considerations
 - uYou ✅
 - uYouPlus/uYou+ 🔱✅
