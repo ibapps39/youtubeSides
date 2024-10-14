@@ -37,7 +37,7 @@ Please Note:
 * Basic Explanation of what features are.
  
 ## Top Reccomendations as of (see README.md commit date)
-###🏆✅ **YouTube Plus for YouTube** dayanch96
+### 🏆✅ **YouTube Plus for YouTube** dayanch96
 - 🏆🔗 https://github.com/dayanch96/YTLite
 - 🖋️🔗 app?id=1064 
 - 👾 https://github.com/dayanch96
