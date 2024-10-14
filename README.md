@@ -42,11 +42,21 @@ Please Note:
 - 🖋️🔗 app?id=1064 
 - 👾 https://github.com/dayanch96
 - 🧑‍💻 Dayanch96 (𝕏)
-- 🗓️ 2024-10-10
+- 🗓️ 2024-10-10 (per 🖋️) but 👾 says 2024-09-05
 - 🛠️ 5.0.2
 - 📺 19.40.4
 - 📱 iOS 18.1+ (for me at least)
 - Really, really nice. Cleaner seetings compared to others on here IMO. Newer YT version. My #1 pick atm.
+- OS-Libs: 
+    YouTubeHeaders,
+    YouTube-X, 
+    YTClassicVideoQuality,
+    YTShortsProgress, 
+    YTAutoFullscreen, 
+    Skip Content Warning, 
+    YouAreThere, 
+    YouTube Native Share, 
+    MobileFFmpeg
 ### 🔱🏆✅ YTLitePlus/+ **YTLite with more features!**
 - 🏆🔗 ytliteplus.github.io (Direct .ipa)
 - 👾 https://github.com/YTLitePlus/YTLitePlus
