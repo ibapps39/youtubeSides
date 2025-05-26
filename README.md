@@ -37,15 +37,16 @@ Please Note:
 * Basic Explanation of what features are.
  
 ## Top Reccomendations as of (see README.md commit date)
-### 🏆✅ **YouTube Plus for YouTube** dayanch96
-- 🏆🔗 https://github.com/dayanch96/YTLite
+
+### 1️⃣🏆✅ **YouTube Plus for YouTube** dayanch96
+- 🏆🔗 https://github.com/dayanch96/YTLite , highly suggest fork + Action!
 - 🖋️🔗 app?id=1064 
 - 👾 https://github.com/dayanch96
 - 🧑‍💻 Dayanch96 (𝕏)
-- 🗓️ 2024-10-10 (per 🖋️) but 👾 says 2024-09-05
-- 🛠️ 5.0.2
-- 📺 19.40.4
-- 📱 iOS 18.1+ (for me at least)
+- 🗓️ 2025-03-29 (per 👾)
+- 🛠️ YouTube Plus 5.2b1 (per 👾)
+- 📺 19.40.4, but works wonderfully w/ decrypted YT 20.20.7
+- 📱 iOS 18.5 (great on 22F76, for me at least)
 - Really, really nice. Cleaner seetings compared to others on here IMO. Newer YT version. My #1 pick atm.
 - OS-Libs: 
     * YouTubeHeaders,
@@ -57,16 +58,18 @@ Please Note:
     * YouAreThere, 
     * YouTube Native Share, 
     * MobileFFmpeg
-### 🔱🏆✅ YTLitePlus/+ **YTLite with more features!**
-- 🏆🔗 ytliteplus.github.io (Direct .ipa)
+
+### 🔱🏆⚠️ YTLitePlus/+ **YTLite with more features!**
+- 🔗 ytliteplus.github.io (Direct .ipa)
 - 👾 https://github.com/YTLitePlus/YTLitePlus
 - 🔱 *This app was forked from @arichorn, who himself forked it from @qnblackcat, so thanks to them.*
 - 🗓️ 2024-09-02 (per 👾)
 - 🛠️ 5.0.1 (per 👾)
 - 📺 19.34.2 (per 👾)
 - 📱 iOS/iPadOS 15.0 or later (per 👾)
+
 ### 🔱🏆⚠️ uYouEnhanced:
-- 🏆🔗 https://uyouplus.com/uyou-enhanced/ (Also on Signulous, appdb, etc)
+- 🔗 https://uyouplus.com/uyou-enhanced/ (Also on Signulous, appdb, etc)
 - 🔗 AppDB: https://appdb.to/?name=uyouenhanced
 - 👾 https://github.com/arichornlover/uYouEnhanced (down), alt 🔱 - https://github.com/dora727/uYouEnhanced
 - 🗓️ June 14, 2024
@@ -79,7 +82,7 @@ Please Note:
 - uYou ✅
 - uYouPlus/uYou+ 🔱✅
 - uYouEnhanced 🔱🏆⚠️
-- YTLite
+- YTLite 🏆✅
 - YTLitePlus/+ 🔱🏆
 - Cercube⛔
 - ProTube⛔
